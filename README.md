@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dragoeast
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Analysis and Machine Learning
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on any Python project
 - 📫 How to reach me at chris (dot) krisztian (dot) markella (at) gmail (dot) com
 
