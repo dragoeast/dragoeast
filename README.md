@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dragoeast
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 🌱 I’m currently learning Front and Backend development by creating a blog in Flask
+- 🌱 I’m currently learning Front and Backend development by creating a blog in Flask and Django
 - 💞️ I’m looking to collaborate on any Python project
 - 📫 How to reach me at chris (dot) krisztian (dot) markella (at) gmail (dot) com
 
